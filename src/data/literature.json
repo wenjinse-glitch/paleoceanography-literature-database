@@ -173,5 +173,102 @@
     "read_status": "Deep read",
     "date_added": "2026-09-05",
     "is_demo": true
+  },
+  {
+    "id": "burke-2026-miocene-ocean-circulation-odz",
+    "title": "Miocene ocean circulation shifted expansive oxygen deficient zones to the Atlantic",
+    "authors": [
+      "Janet E. Burke",
+      "Keyi Cheng",
+      "Andy Ridgwell",
+      "Donald E. Penman",
+      "Dalton S. Hardisty"
+    ],
+    "year": 2026,
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-026-73732-7",
+    "url": "https://doi.org/10.1038/s41467-026-73732-7",
+    "category": [
+      "I/Ca application",
+      "Ocean oxygenation",
+      "ODZ / OMZ",
+      "Paleoceanography background",
+      "Methods"
+    ],
+    "keywords": [
+      "I/Ca",
+      "planktonic foraminifera",
+      "ODZ",
+      "OMZ",
+      "oxygenation",
+      "Miocene Climatic Optimum",
+      "Pacific",
+      "Atlantic",
+      "Central American Seaway",
+      "ocean circulation",
+      "intermediate-water ventilation",
+      "iodine cycle",
+      "cGENIE",
+      "U1337",
+      "U1338",
+      "ODP1237",
+      "ODP926",
+      "age model",
+      "diagenesis"
+    ],
+    "ocean": [
+      "Pacific",
+      "Atlantic"
+    ],
+    "region": "Eastern and equatorial Pacific Ocean; western tropical Atlantic Ocean",
+    "site": [
+      "IODP U1337",
+      "IODP U1338",
+      "ODP 1237",
+      "ODP 926"
+    ],
+    "time_interval": "Miocene Climatic Optimum, approximately 17.3–14.5 Ma; the main synthesis focuses on 17.0–14.7 Ma",
+    "proxy": [
+      "Planktonic foraminiferal I/Ca",
+      "cGENIE iodine–oxygen cycle simulations",
+      "SEM preservation assessment"
+    ],
+    "species": [
+      "Dentoglobigerina venezuelana",
+      "Dentoglobigerina altispira",
+      "Globoquadrina dehiscens",
+      "Trilobatus trilobus",
+      "Trilobatus sacculifer"
+    ],
+    "sample_type": "Planktonic foraminiferal calcite from deep-sea sediment cores; 20–30 specimens per species pool, chiefly from the 300–425 and 425–650 μm size fractions",
+    "research_question": "How did the distribution of upper-ocean oxygen-deficient zones in the Pacific and Atlantic differ during the Miocene Climatic Optimum, and were those differences controlled primarily by elevated atmospheric CO₂ or by paleogeography-driven ocean circulation and nutrient transport associated with an open Central American Seaway?",
+    "methods": "The study measured I/Ca in cleaned planktonic foraminiferal calcite from 49 sampled depths at IODP U1337/U1338 and ODP 1237/926. Sediment was wet-sieved at 63 μm; specimens were picked, lightly crushed, repeatedly rinsed and sonicated, cleaned with buffered H₂O₂, dissolved in 3% HNO₃, and diluted in 0.5% tertiary amine. Elemental ratios were measured with a Thermo-Fisher iCAP triple-quadrupole ICP-MS at Michigan State University using 50 ppm Ca matrix matching and JCp-1 quality control. Forty-two of 49 depths had replicate pools. SEM imaging assessed dissolution and recrystallization. cGENIE Earth-system-model sensitivity experiments varied Miocene paleogeography, Central American Seaway state, atmospheric CO₂ and North Atlantic freshwater/salinity forcing over 10,000-year integrations.",
+    "main_findings": "Foraminiferal I/Ca values at equatorial Pacific Sites U1337 and U1338 were consistently below the study's 2.3 μmol/mol low-oxygen threshold, indicating a persistent but latitudinally restricted Pacific ODZ during the Miocene Climatic Optimum. Site 1237 generally yielded higher I/Ca and was interpreted as lying near the ODZ fringe. Western tropical Atlantic Site 926 consistently recorded low I/Ca across several species, supporting a spatially extensive Atlantic low-oxygen water mass. Model experiments reproduced an Atlantic–Pacific ODZ seesaw: an open Central American Seaway altered circulation and nutrient transport, contracting the Pacific ODZ and intensifying the Atlantic ODZ. Elevated CO₂ strengthened Atlantic oxygen deficiency but was not required for the modeled Atlantic ODZ. SEM observations showed no systematic relationship between test preservation and I/Ca among the studied sites.",
+    "key_conclusions": "During the Miocene Climatic Optimum, the broad pattern of tropical oxygen deficiency was approximately reversed relative to the modern ocean: oxygen-deficient waters were comparatively restricted in the Pacific and expansive in the Atlantic. The authors identify paleogeography and circulation—especially exchange through an open Central American Seaway—as the primary control, with warming and CO₂ acting as secondary amplifiers. Therefore, Pacific-only records are an incomplete analogue for future deoxygenation, and continental configuration must be considered when relating warm climates to ODZ distribution, marine habitats and loci of organic-carbon burial.",
+    "importance": "Essential",
+    "limitations": "The conversion between planktonic-foraminiferal I/Ca and dissolved O₂ is semiquantitative: the 2.3 μmol/mol threshold is useful for identifying low-oxygen water masses, but the oxygen concentration represented—especially near ODZ margins—is uncertain. The timing and depth of iodine incorporation may include post-mortem or early post-depositional effects, and species habitat or partitioning differences may contribute to interspecies variability. Atlantic spatial coverage is sparse, and low iodate at Site 926 could partly reflect transport from another productive region. The model grid is too coarse to reproduce sharp local gradients such as that inferred between U1337/U1338 and ODP 845. The supplied manuscript is an unedited article-in-press version, and it describes model simulations with cGENIE v0.9.54 while the code-availability statement points to a v0.9.57 release; this version distinction should be checked before reproducing the model experiments.",
+    "relation_to_my_research": [
+      "I/Ca 指标应用",
+      "支持 I/Ca 与氧变化关系",
+      "ODZ 演化背景",
+      "中新世氧变化",
+      "太平洋站点对比",
+      "大西洋/太平洋跨洋对比",
+      "年龄模型",
+      "ODP/IODP 站点信息",
+      "实验方法",
+      "成岩作用与保存状态评估",
+      "海洋环流与有机碳埋藏联系"
+    ],
+    "data_available": "Yes — foraminiferal I/Ca data are archived in PANGAEA and included in the Supplementary Information; cGENIE code and experiment configurations are also archived separately.",
+    "data_link": "https://doi.pangaea.de/10.1594/PANGAEA.974710",
+    "age_model": "U1337 and U1338 sample ages follow the age model used by Holbourn et al. (2014) for adjacent U1337 material, with updates from Holbourn et al. (2024). ODP 1237 ages follow Holbourn et al. (2022), also incorporating the 2024 updates. ODP 926 ages follow Sosdian et al. (2018). Paleolocations were calculated using the Paleolocation Mapping Service; coordinates are reported in Supplementary Table 6.",
+    "depth_scale": "Not specified in the main-text methods; verify sample depths and depth-scale units in the PANGAEA dataset, Supplementary Tables and expedition/site reports before merging with other records.",
+    "splice_information": "Not discussed in the main text. Verify the composite-depth and splice framework for U1337/U1338 from the cited age-model papers and expedition resources before sample-level comparison.",
+    "figures_to_focus": "Figure 1: modern oxygen map and site locations. Figure 2: site-by-site, species-resolved Miocene I/Ca records and the 2.3 μmol/mol low-oxygen threshold. Figure 3: cGENIE sensitivity tests separating paleogeography/Central American Seaway and CO₂ effects. Figure 4: longer-term eastern Pacific I/Ca compilation for U1337/U1338 and ODP 1236/1237. Supplementary Figure 5 and Supplementary Table 3: preservation/diagenesis assessment. Supplementary Figure 8: model sensitivity experiments. Supplementary Tables 1, 2 and 4: specimen-level I/Ca, analytical quality control and sample ages.",
+    "quotes_or_notes": "This is a real, non-DEMO record prepared from the supplied full-text article-in-press PDF. Key proxy note: the authors use I/Ca <2.3 μmol/mol to identify low-oxygen waters, commonly associated with O₂ below approximately 75 μM, while emphasizing that the calibration is uncertain at ODZ margins. Site 926 is the key Atlantic counterpart; ODP 845 supplies published comparison data but was not newly measured here. Globorotaloides hexagonus at Site 926 is discussed as independent faunal evidence for low oxygen but was not part of the reported I/Ca measurements. Recheck final pagination, model-version wording and supplementary metadata when the version of record becomes available.",
+    "read_status": "Not read",
+    "date_added": "2026-09-14",
+    "is_demo": false
   }
 ]
